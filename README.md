@@ -1,5 +1,5 @@
 # Olympic-Admin
- A fictional Olympic Sports Management Web application built with ASP.NET C# and MS SQL for a school project. 
+ A fictional Olympic Sports Management Web application built with ASP.NET C# and MS SQL for a uni project. 
  
  
 ![image](https://user-images.githubusercontent.com/86550766/230876384-a5f81f19-235f-498a-ac06-5519be971fdc.png)
